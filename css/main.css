@@ -16,7 +16,7 @@ header.dark {
     --color-on-background: white;
     --color-background-hover: #27262c;
     --color-on-background-hover: white;
-    --color-primary: linear-gradient(90deg,rgba(0, 0, 255, 1) 0%, rgba(0, 255, 0, 1) 33%, rgba(255, 0, 0, 1) 67%, rgba(255, 255, 0, 1) 100%);
+    --color-primary: #283593;
     --color-primary-disabled: white;
     --color-on-primary: white;
     --color-error: #de0000;

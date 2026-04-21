@@ -5,23 +5,13 @@
         "link": "https://www.youtube.com/@Split_GDPS"
     },
     {
-        "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Igneous603",
+        "link": "https://www.youtube.com/@Igneous603"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "MudAnimates",
+        "link": "https://www.youtube.com/@MudAnimates"
     }
 ]

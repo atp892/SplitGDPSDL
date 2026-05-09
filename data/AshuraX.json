@@ -8,6 +8,11 @@
     "percentToQualify": 100,
     "password": "none",
     "records": [
-        
+        {
+            "user": "MudAnimates",
+            "link": "https://medal.tv/games/geometry-dash/clips/mFVOHTqIhrt3w-wSZ?invite=cr-MSxha3EsNDg5NTE4NjA3",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

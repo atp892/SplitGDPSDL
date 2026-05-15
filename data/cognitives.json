@@ -8,6 +8,17 @@
     "percentToQualify": 91,
     "password": "none",
     "records": [
-        
+        {
+            "user": "clover",
+            "link": "https://medal.tv/games/geometry-dash/clips/mGv3cggTegd0_4Kxb?invite=cr-MSxpV1QsNTI4NDI1NDk4&v=69",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "MudAnimates",
+            "link": "https://medal.tv/games/geometry-dash/clips/mHiwanJti5QdzGvaw?invite=cr-MSwwcmosNDg5NTE4NjA3",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
